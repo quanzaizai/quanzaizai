@@ -4,6 +4,28 @@
 
 我更喜欢把学到的东西整理成可运行、可复盘的小项目。这里主要记录一些 Python 基础练习、机器学习实践，以及后续对 AI 工具和自动化工作流的探索。
 
+---
+
+### 🛠 技术栈与工具 (Tech Stack)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C4DFF?style=flat-square&logo=obsidian&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+
+---
+
+### 📊 GitHub 动态统计
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=quanzaizai&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanzaizai&layout=compact&theme=radical" height="150" />
+</p>
+
+---
+
 ## 正在关注
 
 - Python 基础与工程习惯
