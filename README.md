@@ -19,8 +19,8 @@
 
 ### 📊 GitHub 动态统计
 
-![权崽的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=quanzaizai&show_icons=true&theme=radical)
-![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=quanzaizai&layout=compact&theme=radical)
+![权崽的 GitHub 数据](https://github-stats-extended.vercel.app/api?username=quanzaizai&show_icons=true&theme=radical)
+![常用语言](https://github-stats-extended.vercel.app/api/top-langs/?username=quanzaizai&layout=compact&theme=radical)
 
 ---
 
