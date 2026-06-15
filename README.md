@@ -1,7 +1,7 @@
 <div align="center">
   <h2>你好，我是权崽 👋</h2>
-  <h4>Wearable Intelligence & HCI Explorer • CS & AI Self-Learner • Python & C Developer</h4>
-  <p>我相信未来的计算将从屏幕走向空间。我正扎实打牢计算机底层基础，并融合 AI 与多模态交互，致力于构建下一代智能穿戴工具。</p>
+  <h4>Spatial Computing & Physical AI Explorer • CS & AI Self-Learner • Python & C Developer</h4>
+  <p>我相信未来的计算将从屏幕走向空间。我正扎实打牢计算机底层基础，探索<b>生成式世界模型（World Models）</b>与<b>物理人工智能（Physical AI）</b>在智能穿戴设备（如智能眼镜）上的工程落地。</p>
 </div>
 
 <div align="center">
@@ -28,18 +28,18 @@
 <a id="about-me"></a>
 ## 👤 关于我 (About Me)
 
-- **核心方向**：关注 **智能穿戴设备（如 AR 智能眼镜）** 与 **具身交互（Embodied Interaction）**。
-- **自学理念**：以“做中学（Learning by Doing）”为核心。我相信，要在未来的边缘计算与空间计算时代立足，既需要深厚的**底层系统知识**，也需要将 **AI 模型工程化落地** 的行动力。
-- **终极目标**：不满足于顶层调包，从底层原理（操作系统、网络协议）出发，解决可穿戴设备在受限环境下的“低延迟、高能效、高实时性”交互挑战。
+- **核心方向**：聚焦于 **空间计算（Spatial Computing）**、**生成式世界模型（World Models）** 与 **智能穿戴物理交互** 的交汇点。
+- **自学理念**：以“做中学（Learning by Doing）”为核心。物理世界的复杂交互需要坚实的**系统底层底座**，而智能眼镜等设备则是物理世界模型（Physical AI）的最佳感知与落地入口。
+- **终极目标**：不满足于顶层应用调包，从底层原理（操作系统、网络协议、低延迟通信）出发，探索如何让轻量化设备更高效地感知、模拟和理解物理世界。
 
 ---
 
 <a id="learning-path"></a>
 ## 📈 长期主线与规划 (My Long-term Tracks)
 
-- 🛡 **系统底座与边缘计算 (System Foundations)**：深入数据结构、操作系统与网络原理，为未来在智能眼镜等硬件端编写低延迟、高并发的边缘侧通信与计算代码打下坚实基础。
-- 🧠 **多模态交互与 AI 工程 (Multimodal AI Engineering)**：深耕机器学习理论，聚焦于机器视觉（CV）、手势追踪、实时语音交互，以及智能代理（AI Agents）在实际硬件场景中的工程落地。
-- 🌐 **前沿追踪 (Tech Scouting)**：保持对人机交互（HCI）、具身智能前沿论文（如 SIGGRAPH、NeurIPS 交互子刊）以及国际技术规范的跟进，保持英文文档与学术动态的日常积累。
+- 🛡 **系统底座与边缘计算 (System Foundations)**：深入数据结构、操作系统与网络原理，为边缘设备（智能眼镜）提供低延迟、高并发的物理世界数据传输与系统级计算支持。
+- 🧠 **世界模型与物理 AI (World Models & Physical AI)**：聚焦于物理世界的理解与模拟，研究机器视觉（CV）、传感器融合、以及轻量化世界模型（如 NVIDIA Cosmos 等技术方向）在边缘端的落地。
+- 🌐 **前沿追踪 (Tech Scouting)**：保持对人机交互（HCI）、具身智能、空间计算前沿论文（如 SIGGRAPH、NeurIPS 空间智能版块）的阅读，时刻跟进全球最新的技术与学术生态。
 
 ---
 
@@ -47,10 +47,10 @@
 ## 🚀 研发探索路线图 (R&D Roadmap - WIP)
 *我正在学习并筹备构建以下方向的开源项目，欢迎一同探讨：*
 
-*   **[探索中 ⏳] 网页端“智能眼镜”多模态交互沙盒**
-    *   *目标*：利用 Web 摄像头进行实时手势/视线追踪（基于 MediaPipe），并接入多模态 AI（如 Gemini）实现空间物体识别与 HUD 虚拟投影显示。
-*   **[规划中 📂] 低延迟传感器数据流传输协议（C/Python）**
-    *   *目标*：模拟智能眼镜端惯性测量单元（IMU）数据，设计低延迟的 Socket 传输协议，将数据流实时同步至本地主机进行交互反馈。
+*   **[探索中 ⏳] 空间多模态眼镜交互沙盒（Generative Glasses Sandbox）**
+    *   *目标*：基于摄像头及轻量多模态模型，构建一个可感知周围物理环境、实时预测物体运动趋势（世界模型简化版）并进行空间 HUD 投影的 Web 沙盒。
+*   **[规划中 📂] 边缘物理传感器数据低延迟流传输（C/Python）**
+    *   *目标*：在边缘端构建极低延迟的物理姿态数据流传输，优化设备在物理空间移动时的数据通信与反馈速度。
 
 ---
 
@@ -67,17 +67,19 @@
 <a id="tech-stats"></a>
 ## 📊 动态统计 (Stats)
 
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=quanzaizai&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=quanzaizai&layout=compact&theme=radical" height="150" />
-</p>
+<div align="center">
+  <p>
+    <img src="https://github-stats-extended.vercel.app/api?username=quanzaizai&show_icons=true&theme=radical" height="150" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=quanzaizai&layout=compact&theme=radical" height="150" />
+  </p>
+</div>
 
 ---
 
 <a id="connect"></a>
 ## 🤝 交流与合作 (Let's Connect!)
 
-我非常欢迎与对 **AR 智能穿戴、HCI、具身智能、自学路线** 感兴趣的技术爱好者、学者或开发者交流！
+我非常欢迎与对 **AR 智能穿戴、物理 AI、世界模型、空间计算** 感兴趣的技术爱好者、学者或开发者交流！
 
 - 💬 欢迎在我的仓库提交 **Issue** 留言或讨论前沿方向。
 - 📧 电子邮箱：[zhoujinquan205611@gmail.com](mailto:zhoujinquan205611@gmail.com)
