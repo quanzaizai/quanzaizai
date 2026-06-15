@@ -1,6 +1,6 @@
 <div align="center">
   <h2>你好，我是权崽 👋</h2>
-  <h4>Spatial Computing & Physical AI Explorer • CS & AI Self-Learner • Python & C Developer</h4>
+  <h4>Spatial Computing & Physical AI Explorer • CS & AI Self-Learner</h4>
   <p><b>「计算正从二维屏幕跃迁至三维空间」</b><br>我致力于探索<b>空间计算（Spatial Computing）</b>、<b>生成式世界模型（World Models）</b>与下一代智能眼镜交互系统的结合。<br>扎根计算机底层，用代码在物理世界中构建感知与交互。</p>
 </div>
 
