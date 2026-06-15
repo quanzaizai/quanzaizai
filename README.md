@@ -1,7 +1,7 @@
 <div align="center">
   <h2>你好，我是权崽 👋</h2>
   <h4>Spatial Computing & Physical AI Explorer • CS & AI Self-Learner</h4>
-  <p><b>「计算正从二维屏幕跃迁至三维空间」</b><br>我致力于探索<b>空间计算（Spatial Computing）</b>、<b>生成式世界模型（World Models）</b>与下一代智能眼镜交互系统的结合。<br>扎根计算机底层，用代码在物理世界中构建感知与交互。</p>
+  <p><b>「计算正从二维屏幕跃迁至三维空间」</b><br>我致力于探索<b>空间计算（Spatial Computing）</b>、<b>生成式世界模型（World Models）</b>与下一代智能可穿戴及实体交互工具的结合。<br>扎根计算机底层，用代码在物理世界中构建感知与交互。</p>
 </div>
 
 <div align="center">
@@ -42,7 +42,7 @@
 <a id="learning-path"></a>
 ## 📈 长期主线与规划 (My Long-term Tracks)
 
-- 🛡 **系统级底层优化 (Low-Level System Optimization)**：精研数据结构、嵌入式操作系统及网络协议，目标是为低功耗、高实时性要求的智能眼镜设计轻量级底层运行时环境。
+- 🛡 **系统级底层优化 (Low-Level System Optimization)**：精研数据结构、嵌入式操作系统及网络协议，目标是为低功耗、高实时性要求的智能穿戴与实体硬件设备设计轻量级底层运行时环境。
 - 🧠 **物理世界建模 (Modeling the Physical World)**：深入多模态 AI 与机器视觉，探索生成式物理世界模型（如视频/动作预测、IMU 惯性运动解算）在边缘端的工程部署。
 - 🌐 **国际化学术 Scouting (Research & Standards Tracking)**：追踪人机交互（HCI）、具身智能、空间音频与新型光学显示的最新学术出版物（SIGGRAPH, NeurIPS, IEEE），保持英文文档与学术前沿同步。
 
@@ -65,7 +65,7 @@
 *我的阶段性项目研发规划，正以自学沉淀的底座为支撑逐步实现：*
 
 *   **第一阶段：空间多模态交互沙盒 (Spatial Interaction Sandbox)** 
-    *   *研发方向*：手势与视线空间解算，配合轻量级多模态大模型，在网页端模拟眼镜在三维物理世界中的“情境感知与智能标注”HUD 系统。
+    *   *研发方向*：手势与视线空间解算，配合轻量级多模态大模型，在网页端模拟智能装备在三维物理世界中的“情境感知与智能标注”HUD 系统。
 *   **第二阶段：低延迟惯性传感器传输层 (Low-latency IMU Protocol)**
     *   *研发方向*：用 C 语言编写极速 UDP/WebSocket 数据流收发，实现物理空间中姿态变化数据的高频、免抖动传输。
 
