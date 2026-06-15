@@ -18,8 +18,9 @@
 <div align="center">
   <a href="#about-me">关于我</a> ·
   <a href="#learning-path">长期主线</a> ·
+  <a href="#cs-core">CS底座</a> ·
   <a href="#roadmap">研发探索路线</a> ·
-  <a href="#projects">基础底座</a> ·
+  <a href="#projects">基础支撑</a> ·
   <a href="#tech-stats">动态统计</a>
 </div>
 
@@ -43,6 +44,18 @@
 
 ---
 
+<a id="cs-core"></a>
+## 📚 正在构建的 CS 底座 (Core CS Syllabus Under Construction)
+*我正在系统性地学习计算机科学核心课程，并配合本地 Obsidian 知识库进行深度原理沉淀：*
+
+- 📐 **离散数学 (Discrete Mathematics)** — 培养数理逻辑、集合论与形式化证明思维。
+- 💾 **数据结构与算法 (Data Structures & Algorithms)** — 掌握高效的数据表达方式与算法时空复杂度优化。
+- 🖥️ **计算机系统原理 / 系统结构 (Computer Systems & Architecture)** — 深入探索软硬件协同、内存管理、进程调度与处理器微架构。
+- 🌐 **计算机网络与信息安全 (Computer Networks & Security)** — 探究低延迟、高可靠的端到端通信机制与信息安全保障。
+- 🏗️ **软件工程 (Software Engineering)** — 实践规范化开发流程、可维护的设计模式与 CI/CD 自动化构建。
+
+---
+
 <a id="roadmap"></a>
 ## 🚀 研发探索路线图 (R&D Roadmap - WIP)
 *我正在学习并筹备构建以下方向的开源项目，欢迎一同探讨：*
@@ -55,7 +68,7 @@
 ---
 
 <a id="projects"></a>
-## 📂 基础底座项目 (Foundational Repositories)
+## 📂 基础支撑项目 (Foundational Repositories)
 
 | 仓库名称 | 核心内容 | 技术栈 |
 | :--- | :--- | :--- |
@@ -69,7 +82,7 @@
 
 <div align="center">
   <p>
-    <img src="https://github-stats-extended.vercel.app/api?username=quanzaizai&show_icons=true&theme=radical" height="150" />
+    <img src="https://github-stats-extended.vercel.app/api?username=quanzaizai&show_icons=true&logoColor=white&theme=radical" height="150" />
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=quanzaizai&layout=compact&theme=radical" height="150" />
   </p>
 </div>
