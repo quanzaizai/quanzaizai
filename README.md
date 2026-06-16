@@ -1,8 +1,28 @@
-# 你好，我是权崽 👋
+<div align="center">
+  <h2>你好，我是权崽 👋</h2>
+  <h4>计算机系统与人工智能自学者 · 聚焦底层原理与智能感知</h4>
+  <p>对计算机底层系统的严谨与人工智能的交汇充满好奇。扎根计算机底层，做有深度、有温度的系统与算法开发。</p>
+</div>
 
-**计算机系统与人工智能自学者 · 聚焦底层原理与智能感知**
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</div>
 
-> “对计算机底层系统的严谨与人工智能的无限可能充满好奇。致力于探索如何通过高效、底层的系统设计，去加速、支撑并连接未来的多模态智能应用。”
+---
+
+<div align="center">
+  <a href="#about-me">关于我</a> ·
+  <a href="#learning-path">长期主线</a> ·
+  <a href="#cs-core">CS底座</a> ·
+  <a href="#roadmap">实践规划</a> ·
+  <a href="#projects">项目支撑</a> ·
+  <a href="#tech-stats">数据统计</a>
+</div>
 
 ---
 
@@ -10,58 +30,21 @@
 ## 👤 关于我 (About Me)
 
 > 💡 **探索者申明 (My Declaration)**：  
-> 我目前正处于 **CS 基础与 AI 算法的全力积累期**。作为一名坚信“做中学”的自学者，我选择以 **“公开学习/研发 (Build in Public)”** 的形式将自学路径与规划透明化。  
+> 我目前正处于 **CS 基础与 AI 算法的全力积累期**。作为一名坚信“做中学”的自学者，我选择以 **“公开学习/研发 (Build in Public)”** 的形式将自学路径与规划自动透明化。  
 > 🌟 **我非常渴望能与志同道合的自学者结伴同行、交流互助，更由衷地期盼能得到行业前辈与学术大佬的批评指正与方向指引！**
 
-* ⭐ **愿景定位 (Vision)**：构建高性能、低延迟的系统架构，并探索其与智能算法的深度结合。以扎实的系统级能力为根基，连接代码世界与现实应用。
+* ⭐ **愿景定位 (Vision)**：打牢计算机系统底座，探索其与智能算法的结合。不预设死分方向，通过扎实的工程能力连接代码世界与实际应用。
 * ⭐ **研发哲学 (Philosophy)**：确保 **“做中学 (Learning by Doing)”**。无论系统底层的并发调度，还是算法的高效推理，都通过亲自动手实现来夯实理解。
-* ⭐ **探索方向 (Interests)**：
-  * **计算机系统与底层 (Systems)**：探索操作系统设计、高性能并发编程、低延迟网络通信与系统级性能优化（C++/Go/Rust）。
-  * **人工智能与感知 (AI & Perception)**：关注机器学习工程化、多模态融合、计算机视觉与空间几何感知。
-
----
-
-<a id="skills"></a>
-## 🛠 技术栈 (Skills)
-
-### 💻 编程语言 (Languages)
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-</p>
-
-### 🧠 人工智能与智能感知 (AI & Perception)
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-</p>
-
-### 🌐 边缘端与系统支撑 (Systems & Edge)
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
-</p>
-
-### ✍️ 知识管理与生产力 (Productivity)
-<p align="left">
-  <img src="https://img.shields.io/badge/Obsidian-7C4DFF?style=flat-square&logo=obsidian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
-</p>
+* ⭐ **学习重点 (Focus)**：目前主要沉淀数据结构与算法、网络协议与操作系统的基础，同时关注机器学习工程化落地与多模态感知算法。
 
 ---
 
 <a id="learning-path"></a>
 ## 📈 长期主线与规划 (My Long-term Tracks)
 
-- 🛡 **系统级底层优化 (Low-Level System Optimization)**：精研数据结构、操作系统内核及网络协议，目标是深入理解硬件调度与高效数据流动，设计高性能的系统软件与低延迟服务。
-- 🧠 **人工智能与智能感知 (AI & Intelligent Perception)**：深入多模态 AI 与机器视觉，探索神经网络模型的边缘端高效部署与推理加速（如模型量化、算子优化与低延迟网络流解算）。
-- 🌐 **国际化学术 Scouting (Research & Standards Tracking)**：追踪计算机系统、人机交互（HCI）与智能感知领域的最新学术出版物（OSDI, SOSP, SIGGRAPH, NeurIPS），保持英文文档与学术前沿同步。
+- 🛡 **系统与底层开发 (System Programming)**：精研数据结构、操作系统内核及网络协议，以编写高性能、低延迟的系统软件为目标。
+- 🧠 **算法与智能感知 (Algorithms & Perception)**：深入机器学习与计算机视觉，探索神经网络模型的边缘端高效部署与推理。
+- 🌐 **英语与前沿追踪 (Research Tracking)**：追踪前沿技术文档、规范与开源生态，保持技术水平与国际同步。
 
 ---
 
@@ -82,7 +65,7 @@
 *我的阶段性项目研发规划，正以自学沉淀的底座为支撑逐步实现：*
 
 *   **第一阶段：多模态感知沙盒与系统加速 (Perception Sandbox & Acceleration)** 
-    *   *探索方向*：构建面向多模态感知的轻量级处理管线，并尝试在底层使用 C++/Go 进行数据流吞吐的优化与高并发并发调度。
+    *   *探索方向*：构建面向多模态感知的轻量级处理管线，并尝试在底层使用 C++/Go 进行数据流吞吐的优化与并发调度。
 *   **第二阶段：低延迟数据传输层协议 (Low-latency Data Protocol)**
     *   *探索方向*：设计和编写极低延迟的网络传输协议/库，实现高频传感器数据或多模态特征流在分布式端侧的高效、免抖动传输。
 
