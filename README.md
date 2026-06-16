@@ -1,8 +1,3 @@
-<!-- 顶部高科技 Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/quanzaizai/quanzaizai/main/github_profile_banner.png" alt="Computer Systems & AI Banner" width="100%" />
-</p>
-
 <h1 align="center">你好，我是权崽 👋</h1>
 
 <p align="center">
