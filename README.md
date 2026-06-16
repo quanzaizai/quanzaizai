@@ -1,22 +1,8 @@
-<h1 align="center">你好，我是权崽 👋</h1>
+# 你好，我是权崽 👋
 
-<p align="center">
-  <strong>计算机系统与人工智能自学者 · 聚焦底层原理与智能感知</strong>
-</p>
+**计算机系统与人工智能自学者 · 聚焦底层原理与智能感知**
 
-<p align="center">
-  <i>“对计算机底层系统的严谨与人工智能的无限可能充满好奇。致力于探索如何通过高效、底层的系统设计，去加速、支撑并连接未来的多模态智能应用。”</i>
-</p>
-
-<p align="center">
-  <a href="#about-me">关于我</a> •
-  <a href="#-技术栈-skills">技术栈</a> •
-  <a href="#learning-path">长期主线</a> •
-  <a href="#cs-core">CS底座</a> •
-  <a href="#roadmap">研发与实践</a> •
-  <a href="#projects">基础支撑</a> •
-  <a href="#tech-stats">动态统计</a>
-</p>
+> “对计算机底层系统的严谨与人工智能的无限可能充满好奇。致力于探索如何通过高效、底层的系统设计，去加速、支撑并连接未来的多模态智能应用。”
 
 ---
 
@@ -40,32 +26,32 @@
 
 ### 💻 编程语言 (Languages)
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
 </p>
 
 ### 🧠 人工智能与智能感知 (AI & Perception)
 <p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 </p>
 
 ### 🌐 边缘端与系统支撑 (Systems & Edge)
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
 </p>
 
 ### ✍️ 知识管理与生产力 (Productivity)
 <p align="left">
-  <img src="https://img.shields.io/badge/Obsidian-7C4DFF?style=for-the-badge&logo=obsidian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Obsidian-7C4DFF?style=flat-square&logo=obsidian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
 </p>
 
 ---
@@ -117,11 +103,11 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=quanzaizai&show_icons=true&theme=transparent&title_color=00e5ff&text_color=ffffff&icon_color=00e5ff&border_color=00e5ff&hide_border=true" alt="quanzaizai's GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanzaizai&layout=compact&theme=transparent&title_color=00e5ff&text_color=ffffff&icon_color=00e5ff&border_color=00e5ff&hide_border=true&langs_count=5" alt="quanzaizai's Top Languages" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=quanzaizai&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=21262d" alt="quanzaizai's GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanzaizai&layout=compact&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=21262d&langs_count=5" alt="quanzaizai's Top Languages" width="48%" />
   </p>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=quanzaizai&theme=transparent&ring=00e5ff&fire=00e5ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakLabel=00e5ff" alt="quanzaizai's Streak Stats" width="97%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=quanzaizai&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&currStreakLabel=58a6ff&border=21262d" alt="quanzaizai's Streak Stats" width="97%" />
   </p>
 </div>
 
