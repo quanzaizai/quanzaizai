@@ -1,7 +1,7 @@
 <div align="center">
   <h2>你好，我是权崽 👋</h2>
   <h4>计算机系统与人工智能自学者 · 聚焦底层原理与智能感知</h4>
-  <p>对计算机底层系统的严谨与人工智能的交汇充满好奇。扎根计算机底层，做有深度、有温度的系统与算法开发。</p>
+  <p>在代码中丈量底层的严谨，在算法里探索智能的无限可能。<br>扎根系统基石，以终为始，做有深度、有温度的创造者，让冰冷的二进制触碰真实的温度。</p>
 </div>
 
 <div align="center">
@@ -20,8 +20,7 @@
   <a href="#learning-path">长期主线</a> ·
   <a href="#cs-core">CS底座</a> ·
   <a href="#roadmap">实践规划</a> ·
-  <a href="#projects">项目支撑</a> ·
-  <a href="#tech-stats">数据统计</a>
+  <a href="#projects">项目支撑</a>
 </div>
 
 ---
@@ -78,21 +77,6 @@
 | :--- | :--- | :--- |
 | [📁 machine-learning-projects](https://github.com/quanzaizai/machine-learning-projects) | 机器学习基础算法与工程实践，包含 KNN、线性回归、逻辑回归等案例。 | `Python` `Scikit-Learn` |
 | [📁 python-basic-projects](https://github.com/quanzaizai/python-basic-projects) | Python 基础小项目，用于沉淀日常语法、数据处理和 API 练习。 | `Python` |
-
----
-
-<a id="tech-stats"></a>
-## 📊 动态统计 (Stats)
-
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=quanzaizai&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=21262d" alt="quanzaizai's GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanzaizai&layout=compact&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=21262d&langs_count=5" alt="quanzaizai's Top Languages" width="48%" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=quanzaizai&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&currStreakLabel=58a6ff&border=21262d" alt="quanzaizai's Streak Stats" width="97%" />
-  </p>
-</div>
 
 ---
 
