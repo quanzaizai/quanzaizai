@@ -1,8 +1,8 @@
-大家好，我是权崽! 👋
+Hi everyone, I'm Quanzaizai! 👋
 
-- 😎 关于我
-  - 科技爱好者，计算机系统与人工智能自学者。
+- 😎 About Me
+  - Tech enthusiast, self-learner in computer systems and artificial intelligence.
 
-- 🤝 交流与探讨
-  - 渴望交流学习。
-  - 邮箱：[zhoujinquan205611@gmail.com](mailto:zhoujinquan205611@gmail.com) 或随时提交 Issue。
+- 🤝 Connect & Discuss
+  - Eager to learn and exchange ideas.
+  - Email: [zhoujinquan205611@gmail.com](mailto:zhoujinquan205611@gmail.com) or feel free to open an Issue.
