@@ -1,8 +1,8 @@
 ### Hi everyone, I'm Quanzaizai (权崽)! 👋
 
 - 😎 **About Me**
-  - Tech enthusiast and self-learner exploring computer systems and artificial intelligence.
+  - Self-learning computer systems and artificial intelligence through code & notes.
 
-- 🤝 **Connect & Discuss**
-  - Always happy to learn, collaborate, and exchange ideas.
-  - Email: [zhoujinquan205611@gmail.com](mailto:zhoujinquan205611@gmail.com) or feel free to open an issue.
+- 🤝 **Connect**
+  - Feel free to reach out, open an issue, or share suggestions to improve my code!
+  - Email: [zhoujinquan205611@gmail.com](mailto:zhoujinquan205611@gmail.com)
