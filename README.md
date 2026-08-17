@@ -1,5 +1,8 @@
-### Hi there! I'm Quanzaizai 👋
+Hi everyone, I'm Quanzaizai (Jinquan Zhou)! 👋
 
-I'm self-learning Computer Science, currently focused on C, data structures, and machine learning.
+- 😎 About Me
+  - Tech enthusiast, self-learner in computer systems and artificial intelligence.
 
-Feel free to explore my repositories below or reach out at [zhoujinquan205611@gmail.com](mailto:zhoujinquan205611@gmail.com).
+- 🤝 Connect & Discuss
+  - Eager to learn and exchange ideas.
+  - Email: [zhoujinquan205611@gmail.com](mailto:zhoujinquan205611@gmail.com) or feel free to open an Issue.
