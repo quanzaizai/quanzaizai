@@ -1,4 +1,4 @@
-### Hi everyone, I'm Quanzaizai (权崽崽)! 👋
+### Hi everyone, I'm Quanzai (权崽)! 👋
 
 - 😎 About Me
   - Tech enthusiast, self-learner in computer systems and artificial intelligence.
