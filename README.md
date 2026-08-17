@@ -1,8 +1,8 @@
-Hi everyone, I'm Quanzaizai (Jinquan Zhou)! 👋
+### Hi everyone, I'm Quanzaizai (权崽)! 👋
 
-- 😎 About Me
-  - Tech enthusiast, self-learner in computer systems and artificial intelligence.
+- 😎 **About Me**
+  - Tech enthusiast and self-learner exploring computer systems and artificial intelligence.
 
-- 🤝 Connect & Discuss
-  - Eager to learn and exchange ideas.
-  - Email: [zhoujinquan205611@gmail.com](mailto:zhoujinquan205611@gmail.com) or feel free to open an Issue.
+- 🤝 **Connect & Discuss**
+  - Always happy to learn, collaborate, and exchange ideas.
+  - Email: [zhoujinquan205611@gmail.com](mailto:zhoujinquan205611@gmail.com) or feel free to open an issue.
