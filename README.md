@@ -1,8 +1,5 @@
-### Hi everyone, I'm Quanzaizai (权崽)! 👋
+### Hi there! I'm Quanzaizai 👋
 
-- 😎 **About Me**
-  - Self-learning computer systems and artificial intelligence through code & notes.
+I'm self-learning Computer Science, currently focused on C, data structures, and machine learning.
 
-- 🤝 **Connect**
-  - Feel free to reach out, open an issue, or share suggestions to improve my code!
-  - Email: [zhoujinquan205611@gmail.com](mailto:zhoujinquan205611@gmail.com)
+Feel free to explore my repositories below or reach out at [zhoujinquan205611@gmail.com](mailto:zhoujinquan205611@gmail.com).
